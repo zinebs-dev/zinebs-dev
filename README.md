@@ -5,12 +5,43 @@ Backend development • Microservices • Distributed systems • Applied AI
 
 🎯 **Currently looking for a PFE internship (2027)** in backend / software engineering.
 
-## 🛠 Tech Stack
-**Backend:** Java, Spring Boot, WebFlux, FastAPI, Laravel, REST APIs
-**Data:** MySQL, MongoDB (sharding), Elasticsearch, Kibana
-**DevOps:** Docker, Docker Compose, GitHub Actions, Jenkins, Kubernetes (basics)
-**AI/ML:** Python, TensorFlow, Keras, Scikit-learn, NLP
-**Other:** React, React Native, C/C++, Qt, Linux
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">Backend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask,php,laravel&perline=7" />
+</p>
+
+<h3 align="center">Databases & Search</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch&perline=7" />
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,aws,azure,git,github&perline=8" />
+</p>
+
+<h3 align="center">AI / Machine Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&perline=7" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+<h3 align="center">Frontend & Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=7" />
+</p>
+
+<h3 align="center">Systems & Low-level</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,qt,linux,kali,arduino&perline=7" />
+</p>
+
+<h3 align="center">Tools & QA</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=maven,postman,jira,matlab&perline=7" />
+</p>
 
 ## 🚀 Featured Projects
 - **[Student Enrollment System](link)**: Microservices architecture with Spring Boot, WebFlux, Eureka and API Gateway
